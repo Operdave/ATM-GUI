@@ -1,0 +1,40 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body{
+    background: repeating-linear-gradient(to left,rgb(114, 114, 206),rgb(255, 255, 255));
+}
+
+.maindiv{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+button:hover{
+    cursor: pointer;
+}
+button{
+    padding: 10px;
+    border-radius: 25px;
+    font-size: 30px;
+    margin: 10px;
+    float: right;
+}
+
+.confirm{
+    float: left;
+}
+
+.first {
+text-align: center;
+}
+.in{
+    text-align: center;
+}
+
+input{
+    padding: 10px;
+    font-size: 30px;
+    text-align: center;
+}

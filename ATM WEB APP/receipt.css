@@ -1,0 +1,35 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body{
+    background: repeating-linear-gradient(to left,rgb(114, 114, 206),rgb(255, 255, 255));
+}
+
+.maindiv{
+    width: 40%;
+    margin: auto;
+    overflow: hidden;
+}
+
+.first{
+    text-align: center;
+}
+
+#rename{
+    text-transform: uppercase;
+}
+
+.x{
+    background-color: gray;
+}
+
+.y{
+    background-color:whitesmoke;
+}
+
+td{
+    padding: 5px;
+    border-radius: 5px;
+}
+
